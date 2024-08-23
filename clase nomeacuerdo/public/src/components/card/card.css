@@ -1,0 +1,47 @@
+* {
+    font-family: Inter, sans-serif;
+
+}
+
+.product-card {
+    background-color: rgb(255, 255, 255);
+    box-shadow: 2px 2px 2px 2px rgb(225, 225, 225);
+    border-radius: 15px;
+  
+    display: flex;
+    box-sizing: border-box;
+    width: 450px;
+    height: 240px;
+    margin: 20px;
+    cursor: pointer;
+  
+}
+.text--productcard {
+padding: 1.2rem;
+}
+
+p {
+   
+    color: black;
+    font-size: 0.9rem;
+}
+h1 {
+   
+    color: black;
+    font-size: 1.4rem;
+}
+
+img {
+    width: 40%;
+}
+
+button {
+   background-color: transparent;
+   border-color: transparent;
+   color: black;
+   font-weight: bold;
+   font-size: 1rem;
+
+   cursor: pointer;
+   
+}
